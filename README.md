@@ -1,5 +1,6 @@
 # Projeto Trigotech
-Visão Geral: O projeto "Trigotech" é uma iniciativa interdisciplinar que combina conhecimentos de Matemática e Desenvolvimento de Sistemas, visando criar uma calculadora trigonométrica eficiente e acessível. A ideia é proporcionar uma ferramenta que não só ensina as bases da trigonometria, mas também demonstra a aplicação prática desses conceitos em programação.
+## Visão Geral: 
+O projeto "Trigotech" é uma iniciativa interdisciplinar que combina conhecimentos de Matemática e Desenvolvimento de Sistemas, visando criar uma calculadora trigonométrica eficiente e acessível. A ideia é proporcionar uma ferramenta que não só ensina as bases da trigonometria, mas também demonstra a aplicação prática desses conceitos em programação.
 
 ## Objetivo do projeto 
 1.Educação Matemática: Ajudar os alunos a compreender as funções trigonométricas e suas relações em triângulos retângulos.
