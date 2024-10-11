@@ -28,7 +28,7 @@ O código da calculadora trigonométrica permite ao usuário calcular seno, coss
 
 4.Apresentação e Compartilhamento:
 
-°Preparação de uma apresentação para compartilhar o projeto com a comunidade escolar e outros interessados.
+°Preparação de uma apresentação para compartilhar o projeto com a comunidade escolar e outros interessados.https://www.canva.com/design/DAGCD6QYzFo/j49d589LgNVKyr_mKxq_Hw/edit?utm_content=DAGCD6QYzFo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 °Disponibilização do código em plataformas de código aberto para que outros possam utilizar e aprimorar a calculadora.
 
 ## Resultados Esperados: 
